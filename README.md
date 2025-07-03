@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 ### Data Analysis:
           
