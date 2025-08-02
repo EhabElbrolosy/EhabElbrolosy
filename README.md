@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehab Elbrolosy</h1>
-<h3 align="center"> Data Analyst | BI Developer | Graphic Designer </h3>
+<h3 align="center"> Business Intelligence Developer | Data Analyst | Graphic Designer </h3>
 <br>
 
 <p>I'm a passionate Business Intelligence Developer specializing in Power BI, SQL, and Excel. I focus on transforming complex data into clear, actionable insights and building interactive dashboards that support strategic business decisions. My expertise lies in data modeling, reporting, and turning raw information into business value. I also have basic knowledge of data warehousing concepts and understand how to structure and organize data for efficient analysis..</p>
